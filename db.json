@@ -1,6 +1,6 @@
 {
 	"news": [{
-			"id": 1,
+			"id": "1",
 			"title": "Important changes to our Cash Funds from October 2019",
 			"brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
 			"full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -9,7 +9,7 @@
 			"last_updated": "2019-10-21 10:00AM"
 		},
 		{
-			"id": 2,
+			"id": "2",
 			"title": "Important changes to our Cash Funds from October 2019",
 			"brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
 			"full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -18,7 +18,7 @@
 			"last_updated": "2019-10-22 10:00AM"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"title": "Important changes to our Cash Funds from October 2019",
 			"brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
 			"full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -28,7 +28,7 @@
 		}
 	],
 	"latestnews": [{
-			"id": 2,
+			"id": "2",
 			"title": "Important changes to our Cash Funds from October 2019",
 			"brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
 			"full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -37,7 +37,7 @@
 			"last_updated": "2019-10-22 10:00AM"
 		},
 		{
-			"id": 3,
+			"id": "3",
 			"title": "Important changes to our Cash Funds from October 2019",
 			"brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
 			"full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -47,7 +47,7 @@
 		}
 	],
 	"events": [{
-			"id": 1,
+			"id": "1",
 			"title": "Coming to a station near you...",
 			"brief_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"full_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
@@ -57,6 +57,7 @@
 			"location": "Location of this event"
 		},
 		{
+			"id": "1",
 			"title": "Coming to a station near you...",
 			"brief_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"full_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
