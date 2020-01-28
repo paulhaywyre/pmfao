@@ -30,26 +30,43 @@
   ],
   "latestnews": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 2,
+      "title": "Important changes to our Cash Funds from October 2019",
+      "brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
+      "full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.\n\n \n\nFor customers in the Child Trust Fund who use the Guaranteed Cash Fund:\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the guarantee provided or the low risk nature of the fund.\n\n \n\nFor customers who use the Stakeholder Pension Cash Fund\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the low risk nature of the fund.”",
+      "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+      "published_date": "2019-09-27",
+      "last_updated": "2019-10-22 10:00AM"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "title": "Important changes to our Cash Funds from October 2019",
+      "brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
+      "full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.\n\n \n\nFor customers in the Child Trust Fund who use the Guaranteed Cash Fund:\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the guarantee provided or the low risk nature of the fund.\n\n \n\nFor customers who use the Stakeholder Pension Cash Fund\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the low risk nature of the fund.”",
+      "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+      "published_date": "2019-09-28",
+      "last_updated": "2019-10-23 10:00AM"
     }
   ],
    "events": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Coming to a station near you...",
+      "brief_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
+      "full_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.\n\nWill we see you there?\n\nWe’ll be serving up FREE hot drinks and snacks (including flapjacks and brownies) to the Police family and giving you the chance to discuss your financial wellbeing.\n\nWhether you’re looking to save money or plan for the future, our team will be on-hand to talk you through your options and answer any questions you may have about our products and services.\n\nSimply check below to find your nearest event and join us for a cuppa and a chat.\n\nWe look forward to meeting you!",
+      "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+      "published_date": "2019-10-24",
+      "last_updated": "2019-10-21 10:00AM",
+      "location": "Location of this event",
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "title": "Coming to a station near you...",
+      "brief_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
+      "full_content": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.\n\nWill we see you there?\n\nWe’ll be serving up FREE hot drinks and snacks (including flapjacks and brownies) to the Police family and giving you the chance to discuss your financial wellbeing.\n\nWhether you’re looking to save money or plan for the future, our team will be on-hand to talk you through your options and answer any questions you may have about our products and services.\n\nSimply check below to find your nearest event and join us for a cuppa and a chat.\n\nWe look forward to meeting you!",
+      "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+      "published_date": "2019-10-25",
+      "last_updated": "2019-10-22 10:00AM",
+      "location": "Location of this event",
     }
   ],
 }
