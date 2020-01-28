@@ -1,0 +1,49 @@
+{
+  "news": [{
+  "title": "Important changes to our Cash Funds from October 2019",
+  "brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
+  "full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.\n\n \n\nFor customers in the Child Trust Fund who use the Guaranteed Cash Fund:\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the guarantee provided or the low risk nature of the fund.\n\n \n\nFor customers who use the Stakeholder Pension Cash Fund\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the low risk nature of the fund.”",
+  "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+  "published_date": "2019-09-26",
+  "last_updated": "2019-10-20 10:00AM",
+  "author": {
+    "title": "John Perks",
+    "position": "CEO",
+    "introduction": "John joined as CEO for the Police Mutual Group on 1 April 2019.\n\nPrior to this, John was Managing Director at LV= and oversaw their trading businesses and the Heritage closed book. This encompassed Protection, Retirement and Savings & Investments businesses, as well as being CEO of the Advice business.",
+    "image": "https://www.policemutual.co.uk/media/fqjk0jiv/john-perks.png"
+  },
+  "topics": [{
+    "id": "123",
+    "title": "Police Mutual news"
+  },
+    {
+      "id": "456",
+      "title": "Life events"
+    }
+  ]
+},
+  {
+    "title": "Important changes to our Cash Funds from October 2019",
+    "brief_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
+    "full_content": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.\n\n \n\nFor customers in the Child Trust Fund who use the Guaranteed Cash Fund:\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the guarantee provided or the low risk nature of the fund.\n\n \n\nFor customers who use the Stakeholder Pension Cash Fund\n\nIn future, Money Market Funds (MMFs) will be included in the permitted investments available for the fund. MMFs invest in a wide range of short-term money market instruments, including deposits. It is considered that the wider range of instruments available by enabling investment in MMFs should improve the diversification of our fund and potentially improve future returns. This change does not alter the low risk nature of the fund.”",
+    "image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
+    "published_date": "2019-09-26",
+    "last_updated": "2019-10-20 10:00AM",
+    "author": {
+      "title": "John Perks",
+      "position": "CEO",
+      "introduction": "John joined as CEO for the Police Mutual Group on 1 April 2019.\n\nPrior to this, John was Managing Director at LV= and oversaw their trading businesses and the Heritage closed book. This encompassed Protection, Retirement and Savings & Investments businesses, as well as being CEO of the Advice business.",
+      "image": "https://www.policemutual.co.uk/media/fqjk0jiv/john-perks.png"
+    },
+    "topics": [{
+      "id": "123",
+      "title": "Police Mutual news"
+    },
+      {
+        "id": "456",
+        "title": "Life events"
+      }
+    ]
+  }
+]
+}
