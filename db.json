@@ -84,5 +84,39 @@
 			"lastUpdated": "2019-10-22T09:28:56",
 			"location": "Location of this event"
 		}
+	],
+	"communityupdates": [
+		{
+			"id": "1",
+			"title": "Idea from North Somerset",
+			"briefContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"fullContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content. When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"publishedDate": "2019-10-25",
+			"lastUpdated": "2019-10-22T09:28:56"
+		},
+		{
+			"id": "2",
+			"title": "Alpha Pup suggestion 1",
+			"briefContent": "When talking about the Alpha Pups, I always find it useful to show them a picture.",
+			"fullContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content. When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"publishedDate": "2019-10-26",
+			"lastUpdated": "2019-10-22T09:28:56"
+		},
+		{
+			"id": "3",
+			"title": "Idea from North Somerset",
+			"briefContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"fullContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content. When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"publishedDate": "2019-10-27",
+			"lastUpdated": "2019-10-22T09:28:56"
+		},
+		{
+			"id": "4",
+			"title": "Alpha Pup suggestion 2",
+			"briefContent": "When talking about the Alpha Pups, I always find it useful to show them a picture.",
+			"fullContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content. When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
+			"publishedDate": "2019-10-28",
+			"lastUpdated": "2019-10-22T09:28:56"
+		}
 	]
 }
