@@ -25,24 +25,6 @@
 			"image": "https://haywyre.co.uk/wp-content/uploads/2020/01/life-fund.png",
 			"publishedDate": "2019-10-28",
 			"lastUpdated": "2019-10-23T09:28:56"
-		},
-		{
-			"id": 4,
-			"title": "Important changes to our Cash Funds from October 2019",
-			"briefContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"fullContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=1160",
-			"publishedDate": "2019-09-27",
-			"lastUpdated": "2019-11-22T09:28:56"
-		},
-		{
-			"id": 5,
-			"title": "Important changes to our Cash Funds from October 2019",
-			"briefContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"fullContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
-			"publishedDate": "2019-10-28",
-			"lastUpdated": "2019-11-23T09:28:56"
 		}
 	],
 	"latestnews": [{
@@ -150,6 +132,14 @@
 			"title": "John Perks",
 			"poisition": "CEO",
 			"content": "John joined as CE for the Police Mutual Group",
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		},
+		{
+			"id": 2,
+			"title": "Rachel Kirwan BSc ACIS",
+			"poisition": "COmpany Secretary",
+			"content": "Rachel is a qualified Chartered Secretary and has been Company Secretary at Police Mutual since 2000.",
 			"publishedDate": "2019-10-24",
 			"lastUpdated": "2019-10-21T09:28:56"
 		}
