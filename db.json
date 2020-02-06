@@ -26,7 +26,7 @@
 			"publishedDate": "2019-10-28",
 			"lastUpdated": "2019-10-23T09:28:56"
 		},
-		 {
+		{
 			"id": 4,
 			"title": "Important changes to our Cash Funds from October 2019",
 			"briefContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
@@ -95,8 +95,7 @@
 			"location": "Location of this event"
 		}
 	],
-	"communityupdates": [
-		{
+	"communityupdates": [{
 			"id": 1,
 			"title": "Idea from North Somerset",
 			"briefContent": "When promoting the new campaign, I have found that it’s always helpful to include the terms of reference for this as this can help potential customers questions about the legal ramifications of the content.",
@@ -133,7 +132,7 @@
 			"id": 1,
 			"title": "Savings and Investments",
 			"call": "01543 441 630",
-			"hours": "Mon-Fri 8:30am - 5:30pm"
+			"hours": "Mon-Fri 8:30am - 5:30pm",
 			"publishedDate": "2019-10-24",
 			"lastUpdated": "2019-10-21T09:28:56"
 		},
@@ -141,9 +140,9 @@
 			"id": 2,
 			"title": "Savings and Investments",
 			"call": "0151 242 7640",
-			"hours": "Mon-Fri 8:30am - 5:30pm"
+			"hours": "Mon-Fri 8:30am - 5:30pm",
 			"publishedDate": "2019-10-24",
 			"lastUpdated": "2019-10-21T09:28:56"
 		}
-	],
+	]
 }
