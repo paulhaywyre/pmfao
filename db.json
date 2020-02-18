@@ -36,15 +36,6 @@
 			"publishedDate": "2019-09-27",
 			"lastUpdated": "2019-10-22T09:28:56"
 		},
-		{
-			"id": 3,
-			"title": "Important changes to our Cash Funds from October 2019",
-			"briefContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"fullContent": "We are making some changes to how we run our cash funds. This will be of interest to customers who access these funds via our Stakeholder Pension or Child Trust Fund products.",
-			"image": "https://www.policemutual.co.uk/media/ihigyflx/managing-our-life-fund-mobile.png?width=3000",
-			"publishedDate": "2019-09-28",
-			"lastUpdated": "2019-10-23T09:28:56"
-		}
 	],
 	"events": [{
 			"id": 1,
@@ -52,9 +43,9 @@
 			"briefContent": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"fullContent": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"image": "https://haywyre.co.uk/wp-content/uploads/2020/01/event-detail-image-scaled.jpg",
-			"publishedDate": "2019-10-24",
+			"eventDate": "2020-02-24T10:00:00",
 			"lastUpdated": "2019-10-21T09:28:56",
-			"location": "Location of this event"
+			"location": "London"
 		},
 		{
 			"id": 2,
@@ -62,9 +53,9 @@
 			"briefContent": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"fullContent": "We’re hitting the road! Our Hercules Land Rover will be touring the UK over the coming months – loaded with treats for the Police family.",
 			"image": "https://haywyre.co.uk/wp-content/uploads/2020/01/event-detail-image-scaled.jpg",
-			"publishedDate": "2019-10-25",
+			"eventDate": "2020-02-27T10:00:00"
 			"lastUpdated": "2019-10-22T09:28:56",
-			"location": "Location of this event"
+			"location": "Birmingham"
 		},
 		{
 			"id": 3,
